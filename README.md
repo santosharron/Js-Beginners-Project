@@ -8,13 +8,7 @@
     />
   </a>
 </p>
-
-Node.js is an open-source, cross-platform, JavaScript runtime environment. It
-executes JavaScript code outside of a browser. For more information on using
-Node.js, see the [Node.js Website][].
-
-The Node.js project uses an [open governance model](./GOVERNANCE.md). The
-[OpenJS Foundation][] provides support for the project.
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
 
 <p align="center">
   <a href="https://nodejs.org/">
@@ -25,6 +19,14 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
     />
   </a>
 </p>
+
+
+Node.js is an open-source, cross-platform, JavaScript runtime environment. It
+executes JavaScript code outside of a browser. For more information on using
+Node.js, see the [Node.js Website][].
+
+The Node.js project uses an [open governance model](./GOVERNANCE.md). The
+[OpenJS Foundation][] provides support for the project.
 
 **This project is bound by a [Code of Conduct][].**
 
