@@ -1,6 +1,6 @@
 <!--lint disable no-literal-urls-->
 <p align="center">
-  <a href="https://nodejs.org/">
+  <a href="https://www.youtube.com/watch?v=ikec4ZPwxn8&list=PLbTfovbvZ4fHhez8tedXeE4pTgq-C5dLT">
     <img
       alt="Node.js"
       src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
