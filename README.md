@@ -33,6 +33,7 @@ Node.js, see the [Node.js Website][].
 * [Support](#support)
 * [Release Types](#release-types)
   * [Download](#download)
+  * [Team](#team)
     
 
 ## Support
