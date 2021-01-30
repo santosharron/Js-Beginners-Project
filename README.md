@@ -23,10 +23,10 @@ JavaScript is a scripting or programming language that allows you to implement c
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment. It
 executes JavaScript code outside of a browser. For more information on using
-Node.js, see the [Node.js Website][https://nodejs.org/en/].
+Node.js, see the [Node.js Website](https://nodejs.org/en/).
 
 
-**This project is bound by a [Code of Conduct][https://www.youtube.com/c/epicprogrammer?sub_confirmation=1].**
+**This project is bound by a [Code of Conduct](https://www.youtube.com/c/epicprogrammer?sub_confirmation=1).**
 
 # Table of Contents
 
