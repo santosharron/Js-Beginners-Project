@@ -93,7 +93,7 @@ _docs_ subdirectory. Version-specific documentation is also at
 #### Team
 
 
-* ***Michael Halsey**
+* ***Michael Halsey***
 * ***Sanjay Kumar**
 * ***Santosh Arron**
 * ***Susan Alexa**
