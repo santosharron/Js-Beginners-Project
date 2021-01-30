@@ -16,6 +16,16 @@ Node.js, see the [Node.js Website][].
 The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 [OpenJS Foundation][] provides support for the project.
 
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img
+      alt="Node.js"
+      src="https://nodejs.org/static/images/logo-light.svg"
+      width="400"
+    />
+  </a>
+</p>
+
 **This project is bound by a [Code of Conduct][].**
 
 # Table of Contents
