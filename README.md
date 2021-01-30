@@ -94,13 +94,12 @@ _docs_ subdirectory. Version-specific documentation is also at
 
 
 * ***Michael Halsey***
-* ***Sanjay Kumar**
-* ***Santosh Arron**
-* ***Susan Alexa**
-* ***LK**
-* ***Elizabeth Lopez**
-* ***Ethel Ross**
-* ***Richard Perez**
-* ***James Butler**
-* ***Jason Brody**
-* ***Pavan Kumar**
+* ***Sanjay Kumar***
+* ***Santosh Arron***
+* ***Susan Alexa***
+* ***LK***
+* ***Elizabeth Lopez***
+* ***Ethel Ross***
+* ***Richard Perez***
+* ***James Butler***
+* ***Jason Brody***
