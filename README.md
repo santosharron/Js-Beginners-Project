@@ -3,7 +3,7 @@
   <a href="https://nodejs.org/">
     <img
       alt="Node.js"
-      src="https://nodejs.org/static/images/logo-light.svg"
+      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw1v2iv_3ERl6aJ7KekNZlCy&ust=1612094212516000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCGiIjNw-4CFQAAAAAdAAAAABAD"
       width="400"
     />
   </a>
