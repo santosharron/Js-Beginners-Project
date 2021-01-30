@@ -39,7 +39,7 @@ Node.js, see the [Node.js Website][].
 ## Support
 
 Looking for help? Check out the
-[instructions for getting support](.github/SUPPORT.md).
+[instructions for getting support](https://nodejs.org/en/docs/guides/getting-started-guide/).
 
 ## Release Types
 
